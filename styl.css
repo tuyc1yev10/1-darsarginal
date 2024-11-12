@@ -1,0 +1,41 @@
+h1{
+    background-color: aquamarine; border: 1px solid red; border-radius: 30px; text-align: center;
+}
+h2{
+    color: green;
+}
+h3{
+    background-color: yellow; color: green; text-align: center;
+}
+img{
+    height: 500px; 
+}
+
+h4{
+    color: green;
+}
+.l{
+    width: 1100px;
+}
+table,tr,td{
+    border: 1px solid black;border-collapse: collapse;
+}
+.q{
+    background-color: chartreuse;
+}
+.w{
+    background-color: darkblue; width: 500px;
+}
+.e{
+    background-color: red;
+}
+.r{
+    background-color: black;color: blanchedalmond;width: 500px;
+}
+
+
+
+
+
+
+
